@@ -1,11 +1,11 @@
 # Student-Record-Manager
 Student Information Manager
 
-About
+# About
 
 This is a beginner Python project that demonstrates how to use dictionaries, user input, and updating data.
 
-The program:
+# The program:
 
 - Takes the student's name, age, and course as input.
 - Stores the information in a Python dictionary.
@@ -15,7 +15,7 @@ The program:
 - Asks the user whether they want to change the course again.
 - Updates the course if the user enters yes.
 
-Concepts Used
+# Concepts Used
 
 - Variables
 - Dictionaries
@@ -25,7 +25,7 @@ Concepts Used
 - "if-else" Statements
 - Type Conversion ("int()")
 
-Sample Output
+# Sample Output
 
 Enter Name: Mohini
 Enter Age: 20
@@ -43,7 +43,7 @@ Enter new Course: B.Sc Data Science
 
 {'Name': 'Mohini', 'Age': 21, 'Course': 'B.Sc Data Science'}
 
-What I Learned
+# What I Learned
 
 - Creating and using dictionaries
 - Accessing dictionary values using keys
@@ -51,7 +51,7 @@ What I Learned
 - Taking input from users
 - Using conditional statements to control program flow
 
-Author
+# Author
 
 Navaneeth
 
